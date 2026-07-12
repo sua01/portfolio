@@ -1,7 +1,7 @@
 # Portfolio
 
 ## 📄 포트폴리오
-[PDF 바로보기](./portfolio.pdf)
+[PDF 바로보기](./포트폴리오_윤수아.pdf)
 
 ## 📌 프로젝트
 - Cloud Wave AWS 인프라 구축
